@@ -1,6 +1,6 @@
 <h1 align="center">A passionate game developer</h1>
 
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&size=25&duration=4500&pause=1000&color=FFB800&width=438&lines=I'm+Jm+Santiago%2C+21+years+old;3rd+Year+College;Game+Developer" alt="Typing SVG" align="center"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=15F783&center=true&width=435&lines=I'm+Jm+Santiago%2C+21+years+old;3rd+Year+College;Game+Developer" alt="Typing SVG" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
