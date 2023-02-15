@@ -1,4 +1,4 @@
-<h1 align="center">🧑🏻‍💻 A passionate Game Developer 🧑🏻‍💻</h1>
+<h1 align="center">🧑🏻‍💻 uh? 🧑🏻‍💻</h1>
 
 <a href="https://github.com/sntgjm"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3800&pause=700&color=F7F7F7&width=435&lines=I'm+Jm+Santiago%2C+21+years+old;3rd+Year+College+Student;Game+Developer" alt="Typing SVG" /></a>
 <h3 align="left">Connect with me:</h3>
