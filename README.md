@@ -1,13 +1,10 @@
 <h1 align="center">🧑🏻‍💻 WEB DEVELOPER 🧑🏻‍💻</h1>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=F7F7F7&background=69057800&random=false&width=500&lines=I'm+Jose+Miguel+Santiago%2C+22+years+old.;4th+year+college+student.;Web+Developer." alt="Typing SVG" /></a>
-<h3 align="left">Profile:</h3>
-<p align="left"></p>Passionate IT graduate from STI College Ortigas - Cainta presently seeking a post in a dynamic environment that fosters professional growth.</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/oitsmejm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="oitsmejm" height="30" width="40" /></a>
 <a href="https://instagram.com/sntgjm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sntgjm" height="30" width="40" /></a>
-<a href="https://twitter.com/sntgjm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sntgjm" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
